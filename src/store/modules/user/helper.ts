@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://s2.loli.net/2023/03/23/RNulLkbUyhaGXV7.png',
-      name: '2333',
-      description: 'Chatbot',
+      name: 'Guest',
+      description: 'ChatBot',
     },
   }
 }
